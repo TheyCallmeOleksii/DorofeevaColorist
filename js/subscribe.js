@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+ocument.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("subscribe-form");
   const responseMessage = document.getElementById("response-message");
 
